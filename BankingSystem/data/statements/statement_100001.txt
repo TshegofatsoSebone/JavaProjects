@@ -1,0 +1,12 @@
+
+=== Account Statement ===
+Account: 100001
+Holder: Tshego
+Type: savings
+Balance: 200,00
+-----------------------------
+2025-09-10 - Account created
+2025-09-10 - Deposited +350,00
+2025-09-10 - Withdrew -150,00
+2025-09-10 - Transferred -150.0 to 100002
+-----------------------------
